@@ -1,0 +1,6 @@
+#!/Users/James/PycharmProjects/purepython_stockdata/venv/bin/python3.4
+
+from nbconvert.nbconvertapp import main
+
+if __name__ == '__main__':
+    main()

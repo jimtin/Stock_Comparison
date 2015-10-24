@@ -10,7 +10,7 @@ import numpy as np
 
 #sign in credentials
 #todo Hide these credentials
-
+py.sign_in('theAwesome', 'q3ccv5qbkz')
 
 print("Plotly version: {0}".format(plotly.__version__))
 
